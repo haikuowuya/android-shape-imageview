@@ -21,7 +21,7 @@ There are many projects online implementing such components, however one goal of
 
 Gradle dependency:
 ```Groovy
-compile 'com.github.siyamed:android-shape-imageview:0.9@aar'
+compile 'com.github.siyamed:android-shape-imageview:0.9.+@aar'
 ```
 
 ####BubbleImageView
