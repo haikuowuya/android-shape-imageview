@@ -75,10 +75,7 @@ Attributes:
 * `borderWidth` border width in dp
 * `borderAlpha` alpha value of the border between 0.0-1.0
 
-####Other Shader Shape ImageViews
-For all attributes please scroll down. 
-
-#####DiamondImageView
+####DiamondImageView
 ![Android Diamond ImageView](images/small-diamond.png)
 ```XML
 <com.github.siyamed.shapeimageview.DiamondImageView
@@ -90,7 +87,9 @@ For all attributes please scroll down.
     app:borderColor="@color/darkgray"/>
 ```
 
-#####PentagonImageView
+[Attributes](#shader_attributes) 
+
+####PentagonImageView
 ![Android Pentagon ImageView](images/small-pentagon.png)
 ```XML
 <com.github.siyamed.shapeimageview.PentagonImageView
@@ -102,7 +101,9 @@ For all attributes please scroll down.
     app:borderColor="@color/darkgray"/>
 ```
 
-#####HexagonImageView
+[Attributes](#shader_attributes) 
+
+####HexagonImageView
 ![Android Hexagon ImageView](images/small-hexagon.png)
 ```XML
 <com.github.siyamed.shapeimageview.HexagonImageView
@@ -114,7 +115,9 @@ For all attributes please scroll down.
     app:borderColor="@color/darkgray"/>
 ```
 
-#####OctogonImageView
+[Attributes](#shader_attributes) 
+
+####OctogonImageView
 ![Android Octogon ImageView](images/small-octogon.png)
 ```XML
 <com.github.siyamed.shapeimageview.Octogon
@@ -126,7 +129,9 @@ For all attributes please scroll down.
     app:borderColor="@color/darkgray"/>
 ```
 
-#####StarImageView
+[Attributes](#shader_attributes) 
+
+####StarImageView
 ![Android Start ImageView](images/small-star.png)
 ```XML
 <com.github.siyamed.shapeimageview.StarImageView
@@ -140,7 +145,9 @@ For all attributes please scroll down.
     app:strokeJoin="round"/>
 ```
 
-#####HeartImageView
+[Attributes](#shader_attributes) 
+
+####HeartImageView
 ![Android Heart ImageView](images/small-heart.png)
 ```XML
 <com.github.siyamed.shapeimageview.Heart
@@ -152,7 +159,9 @@ For all attributes please scroll down.
     app:borderColor="@color/darkgray"/>
 ```
 
+[Attributes](#shader_attributes) 
 
+<a name="shader_attributes"></a>
 Attributes:
 * `borderColor` border color 
 * `borderWidth` border width in dp
